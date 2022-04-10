@@ -1,2 +1,2 @@
 # Automatization
-This program helps you organize your files automatically, according to file types.
+This program helps you organize your files automatically; according to file types. 
